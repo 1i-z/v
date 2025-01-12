@@ -13,9 +13,10 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@genkit-ai/googleai": "^0.9.12",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "firebase": "^11.1.0",
-    "genkit": "^0.9.12"
+    "genkit": "^0.9.12",
+    "react": "^19.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
